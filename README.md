@@ -15,7 +15,9 @@ This repository works over the data published by the mentioned paper. We work ma
 
 ##### For database.json 
 > For each video we extract its first frame and middle frame.
+
 > We then apply caption generation deep learning model on these frames and store the captions generated in database.json file.
+
 > [x] TODO: train next frame caption generation model to predict whats next in the video.
 
 
