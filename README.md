@@ -18,6 +18,8 @@ This repository works over the data published by the mentioned paper. We work ma
 
 > We then apply caption generation deep learning model on these frames and store the captions generated in database.json file.
 
+> Selected Transformer model : https://huggingface.co/mrm8488/t5-base-finetuned-common_gen
+
 > [x] TODO: train next frame caption generation model to predict whats next in the video.
 
 
